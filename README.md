@@ -1,36 +1,23 @@
-# Bienvenue sur mon profil GitHub 💻
+# Welcome to my GitHub Profile 💻
 
-Salut ! Je suis [votre nom], un passionné de développement web et de technologie. Bienvenue sur ma page GitHub où je partage mes projets, mes contributions à des projets open source et mes explorations dans le vaste monde du code.
+Hi there! I'm BAILLY Mattéo, a web and technology enthusiast. Welcome to my GitHub page where I share my projects, contributions to open-source projects, and explorations in the vast world of coding.
 
-## À propos de moi
+## About Me
 
-- 🌱 Actuellement en train d'apprendre et de me perfectionner dans le développement web et mobile.
-- 👯 Je suis ouvert à la collaboration sur des projets intéressants.
-- 💬 N'hésitez pas à me contacter pour discuter de tout ce qui concerne la technologie, le développement web ou toute autre chose intéressante !
+- 🌱 Currently learning and honing my skills in web and mobile development.
+- 💬 Feel free to reach out to me to discuss anything tech-related, web development, or anything else interesting!
 
-## Technologies et outils que j'utilise
+## Technologies and Tools I Use
 
 - Frontend: HTML, CSS, JavaScript, React.js, Vue.js
-- Backend: Node.js, Express.js, MongoDB, Firebase
-- Mobile: React Native
-- Outils de développement: Git, VSCode, Docker
-
-## Mes projets
-
-Voici quelques-uns des projets sur lesquels j'ai travaillé :
-
-- [Projet 1](lien_vers_le_projet_1) - Description concise du projet et de son objectif.
-- [Projet 2](lien_vers_le_projet_2) - Description concise du projet et de son objectif.
-- [Projet 3](lien_vers_le_projet_3) - Description concise du projet et de son objectif.
-
-N'hésitez pas à explorer ces projets et à y contribuer si vous le souhaitez !
+- Backend: Node.js, Express.js,
+- Mobile: Flutter/Dart
+- Development Tools: Github, GitLab VSCode, Bootstrap studio
 
 ## Contact
 
-- 💬 [LinkedIn](lien_vers_votre_profil_linkedin)
-- 📧 [Email](votre_email)
+- 💬 [LinkedIn] https://www.linkedin.com/in/matt%C3%A9o-bailly-521b4423b/
 
-N'hésitez pas à me contacter si vous avez des questions, des suggestions ou si vous souhaitez simplement discuter ! Je suis toujours heureux de rencontrer de nouvelles personnes et de partager des idées.
+Don't hesitate to contact me if you have any questions, suggestions, or just want to chat! I'm always happy to meet new people and share ideas.
 
-Merci d'avoir visité mon profil GitHub ! 😊
-
+Thanks for visiting my GitHub profile! 😊
