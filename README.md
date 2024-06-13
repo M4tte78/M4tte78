@@ -9,10 +9,10 @@ Hi there! I'm BAILLY Mattéo, a web and technology enthusiast. Welcome to my Git
 
 ## Technologies and Tools I Use
 
-- Frontend: HTML, CSS, JavaScript, React.js, Vue.js
-- Backend: Node.js, Express.js,
+- Frontend: HTML, CSS, JavaScript, React.js, Astro
+- Backend: Node.js, Express.js, Php
 - Mobile: Flutter/Dart
-- Development Tools: Github, GitLab VSCode, Bootstrap studio
+- Development Tools: Github, GitLab VSCode, Bootstrap studio, GitKraken
 
 ## Contact
 
