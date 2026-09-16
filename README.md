@@ -1,23 +1,35 @@
-# Welcome to my GitHub Profile 💻
+# Mattéo Bailly
 
-Hi there! I'm BAILLY Mattéo, a web and technology enthusiast. Welcome to my GitHub page where I share my projects, contributions to open-source projects, and explorations in the vast world of coding.
+**Software development & artificial intelligence** — freelance, Yvelines (France).
 
-## About Me
+I run [Alliby Agency](https://www.linkedin.com/in/matt%C3%A9o-bailly-521b4423b/), a solo digital studio building web, e-commerce and mobile products for clients. I'm currently open to freelance missions in **AI engineering** and **AI orchestration**.
 
-- 🌱 Currently learning and honing my skills in web and mobile development.
-- 💬 Feel free to reach out to me to discuss anything tech-related, web development, or anything else interesting!
+---
 
-## Technologies and Tools I Use
+### What I build
 
-- Frontend: HTML, CSS, JavaScript, React.js, Astro
-- Backend: Node.js, Express.js, Php
-- Mobile: Flutter/Dart
-- Development Tools: Github, GitLab VSCode, Bootstrap studio, GitKraken
+- **AI & automation** — LLM integration, prompt and context engineering, agent workflows, n8n pipelines
+- **Web** — Next.js, React, TypeScript, Tailwind, GSAP
+- **Mobile** — React Native, Flutter / Dart — shipped to the App Store and Play Store
+- **Backend & data** — Node.js, Python, Supabase / PostgreSQL, Dagster
 
-## Contact
+### Selected work
 
-- 💬 [LinkedIn] https://www.linkedin.com/in/matt%C3%A9o-bailly-521b4423b/
+| Project | What it is |
+|---|---|
+| [**discord-bot-suite**](https://github.com/M4tte78/discord-bot-suite) | Three Discord bots in Python — moderation, LLM assistant, event management — built so the business logic never imports `discord.py`, and shipped with an offline simulator that replays full scenarios with no token and no network. 92 tests. |
+| [**etl_pipeline_dagster**](https://github.com/M4tte78/etl_pipeline_dagster) | Dagster ETL pipeline: daily ingestion of 50 market assets, return computation, scheduled PDF and HTML reporting. |
+| [**Ai_Chat**](https://github.com/M4tte78/Ai_Chat) | Conversational assistant on Mistral-7B-Instruct — React front end, Node/Express API, persisted conversation history. |
+| [**projet_docker**](https://github.com/M4tte78/projet_docker) | Repository analysis tool built as a team of three: Svelte front end, Node API, docker-compose, CI on pull requests. |
 
-Don't hesitate to contact me if you have any questions, suggestions, or just want to chat! I'm always happy to meet new people and share ideas.
+### Currently
 
-Thanks for visiting my GitHub profile! 😊
+Building mobile applications for the equestrian sector, and an RGPD-compliant prospecting automation platform.
+
+### Elsewhere
+
+- [LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-bailly-521b4423b/)
+- [Portfolio](https://portfolio-bailly-matteo.vercel.app/)
+- alliby.agency@gmail.com
+
+<sub>Open to discussing anything around AI engineering, Python, or product development — feel free to reach out.</sub>
